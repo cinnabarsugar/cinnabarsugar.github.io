@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "报警",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Number": "1", "Name": "bj", "Remark": null, "Pictures": null, "Videos": null, "Sounds": null }, "geometry": { "type": "Point", "coordinates": [ 114.61515334, 30.458144977000075 ] } },
+{ "type": "Feature", "properties": { "Number": "1", "Name": "bj", "Remark": null, "Pictures": null, "Videos": null, "Sounds": null }, "geometry": { "type": "Point", "coordinates": [ 114.615404521000073, 30.46012137200006 ] } },
+{ "type": "Feature", "properties": { "Number": "1", "Name": "bj", "Remark": null, "Pictures": null, "Videos": null, "Sounds": null }, "geometry": { "type": "Point", "coordinates": [ 114.615827754000065, 30.461101214000053 ] } },
+{ "type": "Feature", "properties": { "Number": "1", "Name": "bj", "Remark": null, "Pictures": null, "Videos": null, "Sounds": null }, "geometry": { "type": "Point", "coordinates": [ 114.610326619000034, 30.460800147000043 ] } },
+{ "type": "Feature", "properties": { "Number": "1", "Name": "bj", "Remark": null, "Pictures": null, "Videos": null, "Sounds": null }, "geometry": { "type": "Point", "coordinates": [ 114.611437042000034, 30.458682018000047 ] } }
+]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "校门",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Id": 0, "name": "东门" }, "geometry": { "type": "Point", "coordinates": [ 114.617184226025614, 30.460125679260045 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "name": "南门" }, "geometry": { "type": "Point", "coordinates": [ 114.610466883944085, 30.457799748614431 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "name": "北门" }, "geometry": { "type": "Point", "coordinates": [ 114.612826230884394, 30.462574238816948 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "name": "西北门" }, "geometry": { "type": "Point", "coordinates": [ 114.608896617149341, 30.462509960809385 ] } }
+]
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "李四",
+    "age": 23,
+    "major": "软件工程",
+    "isInternal": false,
+    "photo": "/images/李四.jpg",
+    "message": "李四 通过校门门禁"
+  },
+   {
+    "name": "张三",
+    "age": 22,
+    "major": "计算机科学与技术",
+    "isInternal": true,
+    "photo": "/images/张三.jpg",
+    "message": "张三 通过校门门禁"
+  }
+
+
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "name": "张三",
+    "age": 22,
+    "major": "计算机科学与技术",
+    "isInternal": true,
+    "photo": "/images/张三.jpg",
+    "message": "张三 通过校门门禁"
+  }
+]
